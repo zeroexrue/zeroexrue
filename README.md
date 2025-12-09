@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+<div id="header" align="center">
   <img src="https://img.shields.io/badge/golang-007ACC?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+</div>
 
 <div id="stats" align="center">
   <h1>Stats:</h1>
